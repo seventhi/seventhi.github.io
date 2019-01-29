@@ -1,2 +1,2 @@
-# Lavanya.github.io
+# seventhi.github.io
 mywebsite
